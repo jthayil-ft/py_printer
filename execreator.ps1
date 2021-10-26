@@ -1,2 +1,2 @@
 .\venv\Scripts\Activate.ps1
-pyinstaller --onefile printer.py --windowed
+pyinstaller --onefile Printer.py --windowed
